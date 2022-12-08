@@ -4,8 +4,8 @@
   "description": "",
   "main": "app.js",
   "engines": {
-    "node": "18.12.1",
-    "npm": "9.1.2"
+    "node": "16.12.1",
+    "npm": "8.11.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -29,13 +29,5 @@
     "nodemon": "^2.0.16",
     "passport": "^0.6.0",
     "passport-local": "^1.0.0"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/keepo/render_mc03.git"
-  },
-  "bugs": {
-    "url": "https://github.com/keepo/render_mc03/issues"
   }
 }
