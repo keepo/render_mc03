@@ -38,18 +38,18 @@ app.use(passport.initialize());
 app.use(passport.session()); 
 
 //This is the part to comment out after running once 
-addEnrty.newUser1(); 
-addEnrty.newUser2();
-addEnrty.newUser3(); 
-addEnrty.newUser4();
-addEnrty.newUser5(); 
+// addEnrty.newUser1(); 
+// addEnrty.newUser2();
+// addEnrty.newUser3(); 
+// addEnrty.newUser4();
+// addEnrty.newUser5(); 
 
-addEnrty.newUser1Post1(); 
-addEnrty.newUser1Post2();
-addEnrty.newUser1Post3(); 
-addEnrty.newUser1Post4(); 
-addEnrty.newUser1Post5();
-addEnrty.newUser1Post6(); 
+// addEnrty.newUser1Post1(); 
+// addEnrty.newUser1Post2();
+// addEnrty.newUser1Post3(); 
+// addEnrty.newUser1Post4(); 
+// addEnrty.newUser1Post5();
+// addEnrty.newUser1Post6(); 
 
 // END 
 
