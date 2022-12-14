@@ -7,7 +7,7 @@ import passport from "passport";
 import routes from './routes/routes.js';
 import addEnrty from "./dbEntries.js"; 
 
-const url = "mongodb+srv://user:12345@ccapdevmcophase2.wwgl3dh.mongodb.net/?retryWrites=true&w=majority";
+const url = "mongodb://127.0.0.1:27017/ccapdevMCOPhase2";
 const secret = process.env.SESSION_SECRET; 
 const app = express(); 
 
